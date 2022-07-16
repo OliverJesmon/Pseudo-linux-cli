@@ -5,9 +5,9 @@ int main() {
     char li[70];
     int i;
     int j;
-    for(i=0;i<j;j++)
+    for(i=0;i<j;j++) //Loop to create infinite series of input output statement
     {
-    printf("[root@program/]$");
+    printf("[root@localhost/]$");
     scanf("%s",li);
 }
     
